@@ -1,0 +1,16 @@
+{
+    "folders": [
+        {
+            "path": "lib1"
+        },
+        {
+            "path": "lib2"
+        }
+    ],
+    "settings": {
+        "rust-analyzer.linkedProjects": [
+            "lib1/Cargo.toml",
+            "lib2/Cargo.toml"
+        ]
+    }
+}
