@@ -9,8 +9,7 @@
     ],
     "settings": {
         "rust-analyzer.linkedProjects": [
-            "lib1/Cargo.toml",
-            "lib2/Cargo.toml"
+            "./Cargo.toml"
         ]
     }
 }
